@@ -1,6 +1,15 @@
+body{
+    background: #222;
+}
 h1{
     background: coral;
     color: black;
+    padding: 2rem;
+}
+h2 {
+    background: crimson;
+    color: white;
+    padding:2rem
 }
 p {
     background: dodgerblue;
